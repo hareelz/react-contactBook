@@ -1,0 +1,38 @@
+.box {
+    width: 20%;
+    background-image: url('https://i.pinimg.com/originals/08/82/5a/08825a94f86c83a8e252ef376c03df50.jpg');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 350px;
+}
+.box > input {
+width: 80%;
+margin: auto;
+height: 25px;
+background-image: url('https://pub-static.fotor.com/assets/bg/91943916-cf00-4529-8ed4-3e47304cea73.jpg');
+background-size: cover;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    background-color: grey;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+    color: black;
+    font-size: 30px;
+}
+p {
+    margin: 0;
+}
+.contact {
+    width: 20%;
+}
+.img-contact {
+    width: 100%;
+    border-radius: 50%;
+}

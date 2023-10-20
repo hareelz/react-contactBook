@@ -1,0 +1,15 @@
+.main-modal {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(50, 49, 49, 0.655);
+}
+.inner-modal{
+    width: 300px;
+    height: 400px;
+    background-color: #fff;
+    text-align: center;
+    margin: 200px auto;
+}
